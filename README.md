@@ -4,4 +4,5 @@
 
 [VR_Lab_Deme](https://www.youtube.com/watch?v=-m6VaFLY2j0)
 
+Completed the construction of the virtual physics lab project about observing the small deformation of a table with a plane mirror by Unity.
 The whole project is too large. Only script part was uploaded. 
